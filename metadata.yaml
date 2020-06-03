@@ -1,0 +1,23 @@
+_repo: Jesse-James-Bold-Stroke-Or-The-Double-Bank-Robbery_62236
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, William (Author at Arthur Westbrook Co. (Cleveland, Ohio))
+    gutenberg_agent_id: '51703'
+    url: http://www.gutenberg.org/2009/agents/51703
+description: ''
+gutenberg_issued: '2020-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James, Jesse, 1847-1882 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- GITenberg
+title: Jesse James' Bold Stroke; Or, The Double Bank Robbery
+url: http://www.gutenberg.org/ebooks/62236
